@@ -6,7 +6,7 @@ python
    
 before_script:
 
-   -cdsrc
+   -cd src
 
 script:
 
