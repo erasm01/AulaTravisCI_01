@@ -10,4 +10,4 @@ before_script:
 
 script:
 
-   -pythontestes.py
+   -python testes.py
